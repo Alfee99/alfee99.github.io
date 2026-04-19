@@ -1,9 +1,6 @@
 # <a href="https://github.io" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
-
-<a href="https://github.comblob/master/LICENSE"><img alt="License" src="http://shields.io" /></a>
-
 <!-- This line below was showing Vinod's image. I updated it to your preview card -->
 <img width="100%" alt="Portfolio Screenshot" src="src/png/Preview-card-min.png">
 
